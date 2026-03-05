@@ -1,5 +1,4 @@
-# Traffic-Data-Engineer-SQL
-
+# SQL & Relational Data Engineering
 ---
 
 ## 📌 Project Overview
@@ -115,4 +114,4 @@ It highlights **SQL expertise**, **data engineering skills**, and readiness to h
 ## 👤 Author
 
 **Sherif Elfiky**  
-Data Engineer | Building robust pipelines and data foundations for urban analytics
+Data Analyst | Building robust pipelines and data foundations for urban analytics
